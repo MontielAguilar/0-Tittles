@@ -1,8 +1,8 @@
-# Education Titles.
+# Education Titles
 
 This repository contains information about the academic titles obtained over the years. The titles are organized chronologically to facilitate the visualization of the academic journey.
 
-## Titles and Certifications.
+## Titles and Certifications
 
 ### 2023:
 - **Data Analyst**
@@ -54,7 +54,7 @@ This repository contains information about the academic titles obtained over the
 - **Law Graduate**
   - *Date of achievement:* 09-2016
 
-### 2007
+### 2007:
 - **High School Graduate (Bachiller)**
   - *Date of achievement:* 10-2007
 
