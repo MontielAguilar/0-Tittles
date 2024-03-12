@@ -36,7 +36,7 @@ This repository contains information about the academic titles obtained over the
 - **Master's Degree in Law**
   - *Date of achievement:* 02-2018
 
-### 2017
+### 2017:
 - **Expert Master's Degree in Urban Law**
   - *Date of achievement:* 12-2027 (Is the date correct?)
 - **Real Estate Registry Law**
