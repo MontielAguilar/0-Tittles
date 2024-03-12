@@ -1,8 +1,8 @@
-# Education Titles
+# Education Titles.
 
 This repository contains information about the academic titles obtained over the years. The titles are organized chronologically to facilitate the visualization of the academic journey.
 
-## Titles and Certifications
+## Titles and Certifications.
 
 ### 2023
 - **Data Analyst**
