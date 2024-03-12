@@ -30,7 +30,7 @@ This repository contains information about the academic titles obtained over the
 - **Criminal Procedures**
   - *Date of achievement:* 03-2021
 
-### 2018
+### 2018:
 - **Mediation – Real Estate Law**
   - *Date of achievement:* 10-2018
 - **Master's Degree in Law**
