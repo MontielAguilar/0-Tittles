@@ -50,7 +50,7 @@ This repository contains information about the academic titles obtained over the
 - **Management of Properties and Community Owners**
   - *Date of achievement:* 09-2017
 
-### 2016
+### 2016:
 - **Law Graduate**
   - *Date of achievement:* 09-2016
 
