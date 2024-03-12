@@ -4,7 +4,7 @@ This repository contains information about the academic titles obtained over the
 
 ## Titles and Certifications.
 
-### 2023
+### 2023:
 - **Data Analyst**
   - *Date of achievement:* 12-2023
 - **Advanced Database**
@@ -18,11 +18,11 @@ This repository contains information about the academic titles obtained over the
 - **Machine Learning Engineering**
   - *Date of achievement:* 11-2023
 
-### 2022
+### 2022:
 - **Yoga Instructor**
   - *Date of achievement:* 06-2022
 
-### 2021
+### 2021:
 - **Gender Violence**
   - *Date of achievement:* 06-2021
 - **Word**
