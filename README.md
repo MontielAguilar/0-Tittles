@@ -4,6 +4,9 @@ This repository contains information about the academic titles obtained over the
 
 ## Titles and Certifications
 
+### 2024:
+-- **Data Science I**
+  - *Date of achievement:* 03-2024
 ### 2023:
 - **Data Analyst**
   - *Date of achievement:* 12-2023
